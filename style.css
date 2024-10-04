@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+
+section{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 2em;
+}
